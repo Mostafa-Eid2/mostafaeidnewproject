@@ -1,3 +1,5 @@
+![my image in the readme file](imgae111.jpeg)
+
 # Mostafa Mohamed Eid
 
 ---
@@ -37,4 +39,21 @@ then `git checkout <old-branch-name>`
 Later, use `git stash pop` or `git stash apply` to reapply your changes and keep it in the stash'
 
 ---
+
+## 8- How to list tags?
+
+`git tag`
+
 ---
+## 9-How to delete tag locally and remotely
+
+locally
+`git tag -d <tag-name>`
+
+remotely
+`git push origin -d <tag-name>`
+
+
+---
+***
+
