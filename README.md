@@ -1,4 +1,4 @@
-
+# Mostafa Mohamed Eid
 
 ---
 
@@ -36,4 +36,5 @@ then `git checkout <old-branch-name>`
 
 Later, use `git stash pop` or `git stash apply` to reapply your changes and keep it in the stash'
 
+---
 ---
